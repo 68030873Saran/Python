@@ -17,7 +17,6 @@
 | `Downloads\Python\Game_data` | ไฟล์ดิบตามที่ดาวน์โหลดมา **ห้ามแก้ไขด้วยมือ** มี  16,598 แถว 11 คอลัมน์ |
 | `Downloads\Python\DATA_GAME_clean` | ข้อมูลที่ล้างแล้ว 2,490 แถว 8 คอลัมน์  |
 
-วิธีสร้างไฟล์ที่ประมวลผลแล้วขึ้นใหม่: วางไฟล์ดิบที่ `data/raw/it_salary.csv` แล้วรัน python `code/01_clean_data.py`
 
 
 ## 3. พจนานุกรมข้อมูล (Data Dictionary) ของ `salary_clean.csv`
